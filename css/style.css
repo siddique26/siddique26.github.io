@@ -34,6 +34,9 @@ main {
 }
 
 /* Navigation */
+nav{
+  max-width: 56rem;
+}
 
 /* Layout components */
 
