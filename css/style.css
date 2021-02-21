@@ -36,6 +36,11 @@ main {
 /* Navigation */
 nav{
   max-width: 56rem;
+  width: 100%;
+  position: fixed;
+  background: rgba(250, 251, 252, .3);
+  backdrop-filter: blur(32px);
+  -webkit-backdrop-filter: blur(32px);
 }
 
 /* Layout components */
