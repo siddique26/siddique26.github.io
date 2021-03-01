@@ -33,6 +33,10 @@ main {
     max-width: 56rem;
 }
 
+p {
+  font-size: 16px;
+}
+
 /* Navigation */
 nav{
   max-width: 56rem;
